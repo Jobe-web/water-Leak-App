@@ -86,9 +86,9 @@ if menu == "ℹ️ About":
     """)
 
     st.info(
-        "This application is a Machine Learning prediction "
-        "tool and should support, not replace, professional "
-        "water network inspection."
+         "This application provides a machine learning-based prediction to" \
+         " assist with water leak detection. The results should be verified through" \
+         " proper inspection and testing."
     )
 
 
